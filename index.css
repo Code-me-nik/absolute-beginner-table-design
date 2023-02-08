@@ -1,0 +1,36 @@
+
+  /* this curly brackets for copy paste use only{} */
+  body{
+    background:linear-gradient(rgb(195, 4, 195), rgb(248, 101, 75));
+    height: 635px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  table{
+    background-color: rgb(86, 241, 218);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+     }
+  th,td{
+    background-color: rgb(86, 241, 218);
+    box-shadow: 12px 10px 25px;
+    width: 140px;
+    height: 50px;
+   }
+   th:hover{
+    background-color: rgb(86, 241, 215);
+    text-shadow:5px 5px 10px;
+    width: 140px;
+    height: 50px;
+    font-size: 25px;
+   }
+   td:hover{
+    background-color: rgb(86, 241, 215);
+    text-shadow:5px 5px 6px;
+    width: 140px;
+    height: 50px;
+    font-size: 20px;
+   }
